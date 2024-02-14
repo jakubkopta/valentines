@@ -23,7 +23,7 @@ function App() {
             ) : (
                 <div className="flex flex-col items-center justify-center w-full h-screen">
                     <div className="relative flex flex-col justify-center items-center">
-                        <img src="src/dino-love.gif" alt="dino"/>
+                        <img src="dino-love.gif" alt="dino"/>
                         <h1 className="absolute top-[90%] font-bold text-3xl bg-white p-1">Will you be my
                             Valentine?</h1>
                     </div>
